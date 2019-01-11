@@ -6,13 +6,12 @@ Audacity Software Architecture Analysis
 
 This analysis is segmented into:
 
-*[src](https://github.com/audacity/audacity) - Build and debug audacity
-*[html](https://github.com/arjayW/auda-sa/tree/master/html) - Architecture documentation
-*[report](https://github.com/arjayW/auda-sa) - Review functionalities and interfaces
+* [src](https://github.com/audacity/audacity) - Build and debug audacity
+* [html](https://github.com/arjayW/auda-sa/tree/master/html) - Architecture documentation
+* [report](https://github.com/arjayW/auda-sa) - Review functionalities and interfaces
 
-```
 
-```
+## Report Structure
 
 ### Doxygen Documentation
 
@@ -23,6 +22,7 @@ Open the html documentation from the index file.
 
 In the online repository use search since the file count are truncated to 1000.
 On a local file system use a browser to analyse and view class, namespace and source hierachy.
+
 
 
 ### Official Audacity Repository
@@ -40,18 +40,23 @@ Add additional notes about how to deploy this on a live system
 
 This project is a course work for as a part of *Software Architectures*, **Dr.-Ing. Detlef Streitferdt** - TU Ilmenau
 
+
 ## Versioning
+
+```
+```
+
 
 ## Authors
 
-**Robert Julius Worm** - *B.Sc., Electrical Engineering* - TU Ilmenau
-**Andreas** - *B.Sc,* - TU Ilmenau
+* **Robert Julius Worm** - *B.Sc., Electrical Engineering* - TU Ilmenau
+* **Andreas** - *B.Sc,* - TU Ilmenau
 
 
 ## License
 
 Audacity(R): free, open source, cross-platform audio software for 
-multi-track recording and editing: https://www.audacityteam.org/ . 
+multi-track recording and editing: https://www.audacityteam.org/
 
 ## Tools
 
