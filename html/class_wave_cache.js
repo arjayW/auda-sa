@@ -1,0 +1,28 @@
+var class_wave_cache =
+[
+    [ "InvalidRegion", "class_wave_cache_1_1_invalid_region.html", "class_wave_cache_1_1_invalid_region" ],
+    [ "WaveCache", "class_wave_cache.html#aba53f54a630a51cb7ca4a0317b92a198", null ],
+    [ "WaveCache", "class_wave_cache.html#abf9f990632432341f3bb932f25657e50", null ],
+    [ "~WaveCache", "class_wave_cache.html#a15bfa204fd1eb87f35a135f5213d4470", null ],
+    [ "AddInvalidRegion", "class_wave_cache.html#a2b2bdd8928cf67f0465ed30f65165dc8", null ],
+    [ "ClearInvalidRegions", "class_wave_cache.html#a0590a24a1d9e626f4ce499f4e8f5dfa2", null ],
+    [ "CountODPixels", "class_wave_cache.html#a61fedd4fe5614e607f791edb11e69a48", null ],
+    [ "GetInvalidRegionEnd", "class_wave_cache.html#a5e515774f6559d9f60ac28ed60d1703b", null ],
+    [ "GetInvalidRegionStart", "class_wave_cache.html#aa4652adcdb548a3e564b6eab4f629d8f", null ],
+    [ "GetNumInvalidRegions", "class_wave_cache.html#a2c5ead5b14b16e936ff28aa67ab5fbc1", null ],
+    [ "LoadInvalidRegion", "class_wave_cache.html#ad38bea598de6136c9eeba97b95370130", null ],
+    [ "LoadInvalidRegions", "class_wave_cache.html#a89f42ad868db2ec9d4d399d20c651309", null ],
+    [ "bl", "class_wave_cache.html#a122c1153962ae8d4b5e12810f2867bf0", null ],
+    [ "dirty", "class_wave_cache.html#abee5a8da780defb99cfab2cb9608b618", null ],
+    [ "len", "class_wave_cache.html#aefd2896b094cb4faa958b8dde2edaff1", null ],
+    [ "max", "class_wave_cache.html#a38026831cc4f78f4ff5b2cc2c2b264cc", null ],
+    [ "min", "class_wave_cache.html#ae4c8765b5c8a9a7a9422135c378061fe", null ],
+    [ "mRegions", "class_wave_cache.html#add462bc5326fd11c2bfd9caf53ab70e1", null ],
+    [ "mRegionsMutex", "class_wave_cache.html#a04122f63b832b6c168df740974eb50fe", null ],
+    [ "numODPixels", "class_wave_cache.html#adaf6da5f57fd744a22bc753e4f7a4d73", null ],
+    [ "pps", "class_wave_cache.html#a523eaf00e1e99a48767664d38405b68f", null ],
+    [ "rate", "class_wave_cache.html#ac48cb51744b60852d389473425c4192b", null ],
+    [ "rms", "class_wave_cache.html#aeb21938e68b6a79b79566f1a3320d8e3", null ],
+    [ "start", "class_wave_cache.html#a1dd0d05d0ee3d2f5da2a22c5effcff84", null ],
+    [ "where", "class_wave_cache.html#af7df2954eebfc2644b127954f320066d", null ]
+];

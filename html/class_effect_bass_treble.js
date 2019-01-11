@@ -1,0 +1,25 @@
+var class_effect_bass_treble =
+[
+    [ "EffectBassTreble", "class_effect_bass_treble.html#acf576c91673a4fcf4788b5eea3865d51", null ],
+    [ "~EffectBassTreble", "class_effect_bass_treble.html#a839882b64d64d7f06381d99a97add5dc", null ],
+    [ "CheckWhetherSkipEffect", "class_effect_bass_treble.html#a96f3b04e8bf695c6d9065b8d35f3e491", null ],
+    [ "DefineParams", "class_effect_bass_treble.html#a6330b014505f61870df1103948bbf988", null ],
+    [ "GetAudioInCount", "class_effect_bass_treble.html#a3300548f97588009ff4d91b876ec1902", null ],
+    [ "GetAudioOutCount", "class_effect_bass_treble.html#acd6be7142db2c9e0e7a4ccba0598e1c3", null ],
+    [ "GetAutomationParameters", "class_effect_bass_treble.html#ab00decd4ca7d9fe8bacd6e8c9e60433f", null ],
+    [ "GetDescription", "class_effect_bass_treble.html#aa6cce373f33bbca91225c2f316c02937", null ],
+    [ "GetSymbol", "class_effect_bass_treble.html#a43f9308bdde82bbcfd7b936a4e16fff8", null ],
+    [ "GetType", "class_effect_bass_treble.html#a429053ff6704676d8860d0f0ce91e46c", null ],
+    [ "ManualPage", "class_effect_bass_treble.html#af39f5ae04d4e3b0acdc19d17518b847b", null ],
+    [ "PopulateOrExchange", "class_effect_bass_treble.html#ab1e908c3c8b90f086bcea4252a4791ee", null ],
+    [ "ProcessBlock", "class_effect_bass_treble.html#a557e53e647807e5d47a7eeb8390ed275", null ],
+    [ "ProcessInitialize", "class_effect_bass_treble.html#aa0e1fdf2c9a14e77e5c360d400579ec4", null ],
+    [ "RealtimeAddProcessor", "class_effect_bass_treble.html#adf3e69943bf56ba486f111311baa22c6", null ],
+    [ "RealtimeFinalize", "class_effect_bass_treble.html#a2f3a2fbe4d59b29aea16d3db54534f2f", null ],
+    [ "RealtimeInitialize", "class_effect_bass_treble.html#a0e720a2d77b07dd2433deb3cfb6ee84c", null ],
+    [ "RealtimeProcess", "class_effect_bass_treble.html#a4dc697f1f0a73fcfb0487d3bb271684e", null ],
+    [ "SetAutomationParameters", "class_effect_bass_treble.html#a3e4f877196332011f380d9e276d2db7f", null ],
+    [ "SupportsRealtime", "class_effect_bass_treble.html#a1cbd183714e69fd288e961706136654a", null ],
+    [ "TransferDataFromWindow", "class_effect_bass_treble.html#a27f345d48d423205b6f86e58bc04211c", null ],
+    [ "TransferDataToWindow", "class_effect_bass_treble.html#acef835b96cb138caf22e8fdd369dd082", null ]
+];

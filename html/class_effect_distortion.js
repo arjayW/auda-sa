@@ -1,0 +1,27 @@
+var class_effect_distortion =
+[
+    [ "Params", "struct_effect_distortion_1_1_params.html", "struct_effect_distortion_1_1_params" ],
+    [ "EffectDistortion", "class_effect_distortion.html#ac95f9b1a77af484490522d745b8308ff", null ],
+    [ "~EffectDistortion", "class_effect_distortion.html#a46e7e720b5b7993b0fe6abbf1ff7f6c2", null ],
+    [ "DefineParams", "class_effect_distortion.html#a469bf1d4b55282f8f6160dac36a54bbe", null ],
+    [ "GetAudioInCount", "class_effect_distortion.html#a5102d2b64be6598762cbffd8c6609c70", null ],
+    [ "GetAudioOutCount", "class_effect_distortion.html#a173bbd77ffae13fab80883b80f8560f1", null ],
+    [ "GetAutomationParameters", "class_effect_distortion.html#a9fce1910c796b3a45512cf503ae966af", null ],
+    [ "GetDescription", "class_effect_distortion.html#ad3d82e35d0df471ed0d04da06d65d69a", null ],
+    [ "GetFactoryPresets", "class_effect_distortion.html#a8e0d0b4715d68b6c37536ecb10c0562e", null ],
+    [ "GetSymbol", "class_effect_distortion.html#a5a2084b77b7ae8b026cd4690a15c611a", null ],
+    [ "GetType", "class_effect_distortion.html#aec098a8bffa94115d92162327dd8f6ed", null ],
+    [ "LoadFactoryPreset", "class_effect_distortion.html#a3fdc7ea11ed8f58b2475b3ab0642f2a6", null ],
+    [ "ManualPage", "class_effect_distortion.html#a27e79132d21e21947539aa3ce7e6faa5", null ],
+    [ "PopulateOrExchange", "class_effect_distortion.html#a606572cd90126d513cc57bacc36f6c22", null ],
+    [ "ProcessBlock", "class_effect_distortion.html#a6d1e50e8df8e6f853c67f1370c1bd4af", null ],
+    [ "ProcessInitialize", "class_effect_distortion.html#a4f9083539ae17c651339071cbcdb39d3", null ],
+    [ "RealtimeAddProcessor", "class_effect_distortion.html#a336236934e2940c47a70defed270f0a8", null ],
+    [ "RealtimeFinalize", "class_effect_distortion.html#ac90b01bbf80bc5bf287103722abc8e1b", null ],
+    [ "RealtimeInitialize", "class_effect_distortion.html#ac8c81c1d4ead67b9ccff2145075c4fef", null ],
+    [ "RealtimeProcess", "class_effect_distortion.html#a4fdbb2698f00ffca2e051ad2ace31a41", null ],
+    [ "SetAutomationParameters", "class_effect_distortion.html#afe71fdffefc5776ba36fad40757cc74e", null ],
+    [ "SupportsRealtime", "class_effect_distortion.html#aac05e30e1c28117d7a89f59c27bedc17", null ],
+    [ "TransferDataFromWindow", "class_effect_distortion.html#a1dda69b5a9cc84d022835d36aa44bb45", null ],
+    [ "TransferDataToWindow", "class_effect_distortion.html#aca85021d0607f16551e9a30e6a8d3e3e", null ]
+];

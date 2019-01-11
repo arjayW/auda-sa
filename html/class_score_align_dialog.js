@@ -1,0 +1,28 @@
+var class_score_align_dialog =
+[
+    [ "ScoreAlignDialog", "class_score_align_dialog.html#a06e4e1378ffe758a650de353730196cf", null ],
+    [ "~ScoreAlignDialog", "class_score_align_dialog.html#a7b9606beddc1bf14c6757344b23b35d9", null ],
+    [ "TransferDataFromWindow", "class_score_align_dialog.html#a29aa0861454efd54ed3dfa991a187bf6", null ],
+    [ "mDefaultButton", "class_score_align_dialog.html#a48441d89e0dd1a0e638138db87a05b54", null ],
+    [ "mForceFinalAlignmentCheckBox", "class_score_align_dialog.html#af4f0ed43597b7062264df46f75cddb86", null ],
+    [ "mFramePeriodLabel", "class_score_align_dialog.html#ab408f74fc2c570780911d012c4204ae7", null ],
+    [ "mFramePeriodSlider", "class_score_align_dialog.html#a28b06a137fb914700d79f8675b622281", null ],
+    [ "mFramePeriodText", "class_score_align_dialog.html#a05c2a0ba15968eac2f0ed4d6540c8dad", null ],
+    [ "mIgnoreSilenceCheckBox", "class_score_align_dialog.html#ac0a9f12b9c2fcb9d13923b94fed1ea71", null ],
+    [ "mLineTimeLabel", "class_score_align_dialog.html#ab73b0cb34c95002944e2d0a3253b5f47", null ],
+    [ "mLineTimeSlider", "class_score_align_dialog.html#a00f27cc2505fe7719a74ab358b00ddd5", null ],
+    [ "mLineTimeText", "class_score_align_dialog.html#a03ed7b14d547d1300f5979166d9fe68b", null ],
+    [ "mPresmoothLabel", "class_score_align_dialog.html#a09552afb3fa1d2b012f04783fc220cec", null ],
+    [ "mPresmoothSlider", "class_score_align_dialog.html#a18099a52f4dc76df66377b8cebc3bff1", null ],
+    [ "mPresmoothText", "class_score_align_dialog.html#a4099e57477afc0e51a6133bc8191b62d", null ],
+    [ "mSilenceThresholdLabel", "class_score_align_dialog.html#a92aa136b50ca96ba9815bcdb3322d249", null ],
+    [ "mSilenceThresholdSlider", "class_score_align_dialog.html#a71c03fdeb899de5c5abe184d96fa5fd3", null ],
+    [ "mSilenceThresholdText", "class_score_align_dialog.html#a64ec976e4604069c0510f1aefa6b57f4", null ],
+    [ "mSmoothTimeLabel", "class_score_align_dialog.html#a8d78260d0fe77de8f95a775e6fa7b804", null ],
+    [ "mSmoothTimeSlider", "class_score_align_dialog.html#ad425f9986eb6b3dd2761185faeafc29e", null ],
+    [ "mSmoothTimeText", "class_score_align_dialog.html#aaeda99722508558d8883d6251e5f048b", null ],
+    [ "mWindowSizeLabel", "class_score_align_dialog.html#acac42fd64ebc2ad8581b84ef7eb4d703", null ],
+    [ "mWindowSizeSlider", "class_score_align_dialog.html#a804aadde6fe8a04675fb55e99d274d8a", null ],
+    [ "mWindowSizeText", "class_score_align_dialog.html#a379cb8b01070bdc4f8191464918f1cc0", null ],
+    [ "p", "class_score_align_dialog.html#abca25b3b674e42187c3ca190e6c03a5d", null ]
+];

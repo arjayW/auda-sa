@@ -1,0 +1,26 @@
+var _project_8cpp =
+[
+    [ "VarSetter", "class_var_setter.html", "class_var_setter" ],
+    [ "ScrollBar", "class_scroll_bar.html", "class_scroll_bar" ],
+    [ "TitleRestorer", "class_title_restorer.html", "class_title_restorer" ],
+    [ "FirstID", "_project_8cpp.html#a550cb4231d535863c55643bbd2d3c6baafdd3cb42d7ff8fd19f8ae0626e2b371e", null ],
+    [ "HSBarID", "_project_8cpp.html#a550cb4231d535863c55643bbd2d3c6baa8c461577a9db8f48725189723b88eb7f", null ],
+    [ "VSBarID", "_project_8cpp.html#a550cb4231d535863c55643bbd2d3c6baa4edf9a6fe4ea5bf2b1868d87a19d7eaa", null ],
+    [ "TrackPanelID", "_project_8cpp.html#a550cb4231d535863c55643bbd2d3c6baa7b42851ecbdaec527a4268321c678cb1", null ],
+    [ "CloseAllProjects", "_project_8cpp.html#a36d2528285e2271390219ccbf583c72b", null ],
+    [ "CornersOnScreen", "_project_8cpp.html#a426ffa7da51b262a80a06c1a23c60832", null ],
+    [ "CreateNewAudacityProject", "_project_8cpp.html#a28032264c981ed85265ad34afc761335", null ],
+    [ "DEFINE_EVENT_TYPE", "_project_8cpp.html#aea409aa4efe5bc935fe41cec30fcc0a2", null ],
+    [ "GetActiveProject", "_project_8cpp.html#a897aa047b58617a9acc187fc882e3bb4", null ],
+    [ "GetDefaultWindowRect", "_project_8cpp.html#a7145ee06a051e1b8f33a2c6c9e9932e4", null ],
+    [ "GetNextWindowPlacement", "_project_8cpp.html#aa9784a13cfc98f9a0e03026b6a80402d", null ],
+    [ "IsWindowAccessible", "_project_8cpp.html#a7e546d886ff554604ba8657b83dbe203", null ],
+    [ "RedrawAllProjects", "_project_8cpp.html#ac760dc03d578e17cb9884e8ba08d9150", null ],
+    [ "RefreshCursorForAllProjects", "_project_8cpp.html#aa4ecd0f61e775319c4f8ac6e56a4c536", null ],
+    [ "ScreenContaining", "_project_8cpp.html#adb83697d0ce93daf3c3fef1cb5837425", null ],
+    [ "gAudacityProjects", "_project_8cpp.html#abc1207c91a492b32e9c5971ddd301671", null ],
+    [ "sbarControlWidth", "_project_8cpp.html#a4a191634e7a5dde1f3e08587b62ffae8", null ],
+    [ "sbarExtraLen", "_project_8cpp.html#a10ce9c52032cf86b533734c0fc580c6d", null ],
+    [ "sbarHjump", "_project_8cpp.html#a8416fbcad75677d27992d858a74b889c", null ],
+    [ "sbarSpaceWidth", "_project_8cpp.html#aa8df4dce9db755699519dab9fc5f0be2", null ]
+];

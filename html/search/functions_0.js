@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['add',['Add',['../class_track_list.html#adf89efa484ee4a381584c85f9dbc403a',1,'TrackList::Add(std::unique_ptr&lt; TrackKind &gt; &amp;&amp;t)'],['../class_track_list.html#a64eb13e84a5fe40c6dcc56fa91260193',1,'TrackList::Add(std::shared_ptr&lt; TrackKind &gt; &amp;&amp;t)']]],
+  ['addcheckboxonright',['AddCheckBoxOnRight',['../class_shuttle_gui_base.html#a96463f4053385f470f717df0ec2fcfc0',1,'ShuttleGuiBase']]],
+  ['addcommand',['AddCommand',['../class_command_directory.html#a9c4438fef5fda5542104629b9923896b',1,'CommandDirectory::AddCommand()'],['../class_command_manager.html#a20e34a93277735c3d611665eaafa53dd',1,'CommandManager::AddCommand()']]],
+  ['addconsttextbox',['AddConstTextBox',['../class_shuttle_gui_base.html#a7c71cba69d98f41064d12f23df2b88dc',1,'ShuttleGuiBase']]],
+  ['addformat',['AddFormat',['../class_export_plugin.html#a95df7db8cf9e98fbe6161d13e3ec092d',1,'ExportPlugin']]],
+  ['addinvalidregion',['AddInvalidRegion',['../class_wave_clip.html#a3f03541f5a1d996c06eb43f1b64da889',1,'WaveClip::AddInvalidRegion()'],['../class_wave_track.html#a108276d05d8faeb7a961b3400a634006',1,'WaveTrack::AddInvalidRegion()']]],
+  ['additemlist',['AddItemList',['../class_command_manager.html#ad9d8503440a3016ab424d41163be2fbf',1,'CommandManager']]],
+  ['addmenubar',['AddMenuBar',['../class_command_manager.html#af8b00106c1b6ee1c26384223beaec767',1,'CommandManager']]],
+  ['addnewtask',['AddNewTask',['../class_o_d_manager.html#af0d8bf509ab6ea2137697edd25eac59b',1,'ODManager']]],
+  ['addprompt',['AddPrompt',['../class_shuttle_gui_base.html#aa64878f881c9394090275f01296888c6',1,'ShuttleGuiBase']]],
+  ['addradiobutton',['AddRadioButton',['../class_shuttle_gui_base.html#a7f7670bb731cda2f9c1da83640ba2e2d',1,'ShuttleGuiBase']]],
+  ['addtask',['AddTask',['../class_o_d_manager.html#a83ff55a20825529c681bede89cd1da8e',1,'ODManager::AddTask()'],['../class_o_d_wave_track_task_queue.html#a06fa24bbcb8c6630d237967e9ed7a1f2',1,'ODWaveTrackTaskQueue::AddTask()']]],
+  ['addtextwindow',['AddTextWindow',['../class_shuttle_gui_base.html#a80c9119429827fe2a5815fd0e99d5cf1',1,'ShuttleGuiBase']]],
+  ['addtitle',['AddTitle',['../class_shuttle_gui_base.html#aee0fd3f1d39ff229d17301f10ca5b837',1,'ShuttleGuiBase']]],
+  ['addtohead',['AddToHead',['../class_track_list.html#a0c16b4b11bcea6b10ee4e6d7e7d434ca',1,'TrackList']]],
+  ['addunits',['AddUnits',['../class_shuttle_gui_base.html#a54816a02cbcc4d09b3d40c2b731ba9e5',1,'ShuttleGuiBase']]],
+  ['addwavetrack',['AddWaveTrack',['../class_o_d_task.html#a3438e8f3f97a2ad2954913b23beaa0a6',1,'ODTask::AddWaveTrack()'],['../class_o_d_wave_track_task_queue.html#abe296a4b592fda1425ebed95cd5368c7',1,'ODWaveTrackTaskQueue::AddWaveTrack()']]],
+  ['addwindow',['AddWindow',['../class_shuttle_gui_base.html#ab9c4e1935a85180c4aff8b056b29c418',1,'ShuttleGuiBase']]],
+  ['aliasblockfile',['AliasBlockFile',['../class_alias_block_file.html#af44ea87b16db9803a17482711a893e33',1,'AliasBlockFile']]],
+  ['allprojectdeletemutex',['AllProjectDeleteMutex',['../class_audacity_project.html#a6890efc4a360877cc9e334714e142d35',1,'AudacityProject']]],
+  ['append',['Append',['../class_wave_clip.html#a6fef82f5167a5c9f95e76055bbcb8c91',1,'WaveClip::Append()'],['../class_wave_track.html#a02f936f387d97eba0657db78a766ff3d',1,'WaveTrack::Append()']]],
+  ['appendcoded',['AppendCoded',['../class_wave_track.html#ac1972fdc4ea640ac02cc6eebb8b956e5',1,'WaveTrack']]],
+  ['appendsilence',['AppendSilence',['../class_wave_clip.html#a672ad66af2cfd58b42c702a16c6bd8a8',1,'WaveClip']]],
+  ['apply',['Apply',['../class_command_implementation.html#a267a09eeba0ad0ad84cecd50be7b938f',1,'CommandImplementation::Apply()'],['../class_dither.html#a6c3a234d3ff2ea8dff4fa39b2172f3f5',1,'Dither::Apply()']]]
+];

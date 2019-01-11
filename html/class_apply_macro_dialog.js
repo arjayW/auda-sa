@@ -1,0 +1,26 @@
+var class_apply_macro_dialog =
+[
+    [ "ApplyMacroDialog", "class_apply_macro_dialog.html#aaecd169b8d9316db28122b77d755b0ba", null ],
+    [ "~ApplyMacroDialog", "class_apply_macro_dialog.html#a673bd6c0f107d0140dfc9fc03e365055", null ],
+    [ "ApplyMacroToProject", "class_apply_macro_dialog.html#aa0fd15e110457fc261727d41ae5ca806", null ],
+    [ "ApplyMacroToProject", "class_apply_macro_dialog.html#ae4a45bf87750213a7b5381421ff3c28f", null ],
+    [ "GetHelpPageName", "class_apply_macro_dialog.html#aef6f30e39efccf8c43228407cc0d94cd", null ],
+    [ "OnApplyToFiles", "class_apply_macro_dialog.html#a52e23116a7662e60b8a6f0b141bc23a3", null ],
+    [ "OnApplyToProject", "class_apply_macro_dialog.html#ad914f6250e439d96d76ed7e1590fa836", null ],
+    [ "OnCancel", "class_apply_macro_dialog.html#ac90bcf8ed2bad37f8a378d6e5cc79e8b", null ],
+    [ "OnHelp", "class_apply_macro_dialog.html#ae5a41e57fcb2f18d9b79a482c18de631", null ],
+    [ "Populate", "class_apply_macro_dialog.html#a9d2b9c66d5b799c9160c757753a6b515", null ],
+    [ "PopulateMacros", "class_apply_macro_dialog.html#a652daa8c84337f6f06da4f256f06895b", null ],
+    [ "PopulateOrExchange", "class_apply_macro_dialog.html#aef6c81d2d6597351e16ed340419cc8e2", null ],
+    [ "mAbort", "class_apply_macro_dialog.html#acc10604b1605891b6bc55ad3afe2040d", null ],
+    [ "mActiveMacro", "class_apply_macro_dialog.html#a075b6e4d140ae546d336802093e3f6e9", null ],
+    [ "mbExpanded", "class_apply_macro_dialog.html#aa4cc7ef631ee5f107912a42a5a51456d", null ],
+    [ "mCancel", "class_apply_macro_dialog.html#a735686eb77ec6088382de281ff26d980", null ],
+    [ "mCatalog", "class_apply_macro_dialog.html#ade2ed939e796125d8cfb48756cf5f0cc", null ],
+    [ "mList", "class_apply_macro_dialog.html#a6136e9c021f7110e6a5f8588878931fd", null ],
+    [ "mMacroCommands", "class_apply_macro_dialog.html#a664f4906dd516c83361be6c8c2c276de", null ],
+    [ "mMacros", "class_apply_macro_dialog.html#a9d7787debde078403f5c49109937ef58", null ],
+    [ "mOK", "class_apply_macro_dialog.html#aaa81975ae4da93d0ae83e0b8edcb667e", null ],
+    [ "mResize", "class_apply_macro_dialog.html#a126a5c6f3f49ceb3354d55625c0a4680", null ],
+    [ "mResults", "class_apply_macro_dialog.html#a8697d2beb8342e15edbe4bd218425655", null ]
+];

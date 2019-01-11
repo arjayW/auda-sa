@@ -1,0 +1,36 @@
+var class_label_struct =
+[
+    [ "BadFormatException", "struct_label_struct_1_1_bad_format_exception.html", null ],
+    [ "TimeRelations", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8", [
+      [ "BEFORE_LABEL", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8aacd7a2485255437d0be6a8ad50d1a0cf", null ],
+      [ "AFTER_LABEL", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8ac8591413369ee4df74d0e2472952254e", null ],
+      [ "SURROUNDS_LABEL", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8a7d2eb849dac366b9e3f59933e643b3fe", null ],
+      [ "WITHIN_LABEL", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8a3cfb7877ad14a3006551b7a0c503e242", null ],
+      [ "BEGINS_IN_LABEL", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8a5546f41def946d8ff28f8cedbcd17945", null ],
+      [ "ENDS_IN_LABEL", "class_label_struct.html#a3e70ad31acce8270b0796c9e46bbdfe8a955b9201235ae459ac0e0c2613dd396d", null ]
+    ] ],
+    [ "LabelStruct", "class_label_struct.html#a7a157224c1e8d98552e7d37bbd4c4175", null ],
+    [ "LabelStruct", "class_label_struct.html#a7b97a8462c84909e95cb7bbdbeae6e3a", null ],
+    [ "AdjustEdge", "class_label_struct.html#ad88079eee444025012070a1f831fbf23", null ],
+    [ "DrawGlyphs", "class_label_struct.html#a04c81271626f59eff40a2317d00c6598", null ],
+    [ "DrawHighlight", "class_label_struct.html#a1b11960e1b9a05ab4b9e0b5d537a36fc", null ],
+    [ "DrawLines", "class_label_struct.html#a6b2ef4aa3aad460369a08d18c025d45c", null ],
+    [ "DrawText", "class_label_struct.html#ade3a993b128766f3b35aa9f7b7635636", null ],
+    [ "DrawTextBox", "class_label_struct.html#a9272b7c18b93a77589ae09868835067c", null ],
+    [ "Export", "class_label_struct.html#a69c2d20173e9da1c7ead38aa1cf5dac5", null ],
+    [ "getDuration", "class_label_struct.html#ae140a761d7db6a2d45600a75110a0aad", null ],
+    [ "getSelectedRegion", "class_label_struct.html#a5d887d47fd9415b22cfc79e1aa699b2f", null ],
+    [ "getT0", "class_label_struct.html#aa2c94e51991e6ee7d8753efc12bf9148", null ],
+    [ "getT1", "class_label_struct.html#a15ae793f6365990d439e20b5c59b03e8", null ],
+    [ "getXPos", "class_label_struct.html#a061084f2e198dadceb0b2ddeff138fa3", null ],
+    [ "MoveLabel", "class_label_struct.html#a1405e19e8ecc7dbb9b36e279481c3a15", null ],
+    [ "RegionRelation", "class_label_struct.html#ab3df93daee2cb3fe3536c46fc15e74a3", null ],
+    [ "selectedRegion", "class_label_struct.html#ac7eaaf8a91c7f42d33fd0d4d4d8cf56c", null ],
+    [ "title", "class_label_struct.html#ab3b60ea3a2f089605a60277c1d7ecab3", null ],
+    [ "updated", "class_label_struct.html#ae3885ef0e16798f57e24f7f996921338", null ],
+    [ "width", "class_label_struct.html#ae81abfcb1628d7c4931e06f56a319e9f", null ],
+    [ "x", "class_label_struct.html#a3cf92d0baf6b76efa1b16edce3665fb0", null ],
+    [ "x1", "class_label_struct.html#a1e7175fc196b30358b92d4bae7f5dad6", null ],
+    [ "xText", "class_label_struct.html#af7b2252912f4b3999465c8a37c58e30e", null ],
+    [ "y", "class_label_struct.html#afebbf0cbb153813c8bd73eb362647736", null ]
+];
